@@ -13,16 +13,25 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="ソース ファイル\初級練習問題">
+      <UniqueIdentifier>{5bb944b5-7831-49fb-8253-006065d9d971}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\初級例題">
+      <UniqueIdentifier>{0e1bc392-d144-40d2-9167-8bc1abded213}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="beg-prac_1-1.c">
-      <Filter>ソース ファイル</Filter>
-    </ClCompile>
-    <ClCompile Include="beg_1-2.c">
-      <Filter>ソース ファイル</Filter>
+      <Filter>ソース ファイル\初級練習問題</Filter>
     </ClCompile>
     <ClCompile Include="beg-prac_1-2.c">
-      <Filter>ソース ファイル</Filter>
+      <Filter>ソース ファイル\初級練習問題</Filter>
+    </ClCompile>
+    <ClCompile Include="beg_1-2.c">
+      <Filter>ソース ファイル\初級例題</Filter>
+    </ClCompile>
+    <ClCompile Include="beg_2-1.c">
+      <Filter>ソース ファイル\初級例題</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
