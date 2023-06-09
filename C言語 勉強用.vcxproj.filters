@@ -54,5 +54,17 @@
     <ClCompile Include="beg_3-2.c">
       <Filter>ソース ファイル\初級例題</Filter>
     </ClCompile>
+    <ClCompile Include="beg-prac_4.c">
+      <Filter>ソース ファイル\初級練習問題</Filter>
+    </ClCompile>
+    <ClCompile Include="beg-prac_5.c">
+      <Filter>ソース ファイル\初級練習問題</Filter>
+    </ClCompile>
+    <ClCompile Include="beg-summary.c">
+      <Filter>ソース ファイル\初級練習問題</Filter>
+    </ClCompile>
+    <ClCompile Include="nankairoiro.c">
+      <Filter>ソース ファイル\初級練習問題</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
