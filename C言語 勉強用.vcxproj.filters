@@ -66,5 +66,8 @@
     <ClCompile Include="nankairoiro.c">
       <Filter>ソース ファイル\初級練習問題</Filter>
     </ClCompile>
+    <ClCompile Include="fe_trace.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
