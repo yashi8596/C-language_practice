@@ -19,6 +19,9 @@
     <Filter Include="ソース ファイル\初級例題">
       <UniqueIdentifier>{0e1bc392-d144-40d2-9167-8bc1abded213}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ソース ファイル\中級練習問題">
+      <UniqueIdentifier>{4defe250-bd62-489a-9641-7d91d7c56fd0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="beg-prac_1-1.c">
@@ -68,6 +71,9 @@
     </ClCompile>
     <ClCompile Include="fe_trace.c">
       <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="mid_hairetsu.c">
+      <Filter>ソース ファイル\中級練習問題</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
