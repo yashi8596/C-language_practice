@@ -75,5 +75,8 @@
     <ClCompile Include="mid_hairetsu.c">
       <Filter>ソース ファイル\中級練習問題</Filter>
     </ClCompile>
+    <ClCompile Include="mid2.c">
+      <Filter>ソース ファイル\中級練習問題</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
